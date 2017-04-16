@@ -1,0 +1,51 @@
+html{
+	font-family: 'Open Sans', sans-serif;
+}
+body{
+	margin: 0px auto;
+	background: #f3f3f3;
+}
+#header{
+	background: #fff;
+}
+#header-row2{
+	border-bottom: 1px solid #efefef;
+}
+#header-row3{
+	border-bottom: 1px solid #efefef;
+}
+.container{
+	width: 80%;
+	margin-left: 10%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+#logo_text{
+	font-size: 36px;
+}
+.header_left{
+	display: inline-block;
+}
+.header_right{
+	display: inline-block;
+	float: right;
+	font-size: 12px;
+}
+.menu_item{
+	font-size: 14px;
+	display: inline-block;
+}
+.float_clear{
+	clear: both;
+}
+.footer_col{
+	width: 25%;
+}
+.footer a{
+	text-decoration: none;
+	color: #000;
+}
+.unstyle_list{
+	padding: 0px;
+	list-style: none;
+}
