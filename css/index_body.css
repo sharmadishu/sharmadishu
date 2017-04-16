@@ -1,0 +1,24 @@
+.align_center{
+	text-align: center;
+}
+#body_header h2, #body_header h4{
+    font-style: normal;
+    font-family: 'Open Sans', serif;
+    margin: 0;
+    padding: 0;
+}
+#body_header h2{
+	font-size: 2.5em;
+    letter-spacing: -0.05em;
+    font-stretch: normal;
+    font-weight: normal;
+    color: #000;
+    line-height: 55px;
+}
+#body_header h4{
+	font-size: 1.5em;
+    margin: 0 0 15px 0em;
+    font-weight: 300;
+    color: #666666;
+    line-height: 38px;
+}
