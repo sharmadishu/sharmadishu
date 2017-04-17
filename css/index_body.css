@@ -22,3 +22,24 @@
     color: #666666;
     line-height: 38px;
 }
+#body_main
+{
+
+}
+#body_main .container
+{
+    width: 100%;
+    display: inline-block;
+}
+#body_main .container .box
+{
+    width: 100%
+}
+#body_main .container .box1
+{
+    width: 20%;
+    height: 100px;
+    background-color: #efefef;
+}
+
+

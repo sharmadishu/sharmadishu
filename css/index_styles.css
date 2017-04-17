@@ -39,7 +39,8 @@ body{
 	clear: both;
 }
 .footer_col{
-	width: 25%;
+	width: 20%;
+	display: inline-block;
 }
 .footer a{
 	text-decoration: none;
@@ -48,4 +49,5 @@ body{
 .unstyle_list{
 	padding: 0px;
 	list-style: none;
+	margin-left: 0;
 }
